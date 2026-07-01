@@ -3,7 +3,7 @@ package com.project.dto;
 public class RequestDto {
 
     private String message;
-
+ 
     public RequestDto() {
     }
 
