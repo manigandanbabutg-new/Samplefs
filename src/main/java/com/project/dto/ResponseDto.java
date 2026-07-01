@@ -2,7 +2,7 @@ package com.project.dto;
 
 public class ResponseDto {
 
-    private String response;
+    private String response; 
 
     public ResponseDto() {
     }
